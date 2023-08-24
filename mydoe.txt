@@ -12,3 +12,5 @@ asdfghjkl
 
 xdgcfhbjkl;
 changing it at wrong time but I don't want  to loss this chang for some time.
+
+Edits to be commited before stash pop;
